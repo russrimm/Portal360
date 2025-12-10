@@ -1,0 +1,602 @@
+[
+  {
+    "route": "/",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\home.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/about",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\about.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/application-insights-exceptions",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\application-insights-exceptions.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/application-management/app-protection-status",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\application-management__app-protection-status.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/application-management/intune-apps",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\application-management__intune-apps.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/application-management/tenant-applications",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\application-management__tenant-applications.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/applications",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\applications.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/audit-log-queries",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\audit-log-queries.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/audit-logs",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\audit-logs.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/azure",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\azure.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/azure-resources",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\azure-resources.png",
+    "brightIssues": 0,
+    "attempt": 2
+  },
+  {
+    "route": "/azure-resources/advisor-score",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\azure-resources__advisor-score.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/azure-resources/list-recommendations",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\azure-resources__list-recommendations.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/azure-resources/recommendations",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\azure-resources__recommendations.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/azure/advisor",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\azure__advisor.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/azure/advisor-score",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\azure__advisor-score.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/azure/list-recommendations",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\azure__list-recommendations.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/azure/recommendations",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\azure__recommendations.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/azure/resources",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\azure__resources.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/azure/subscribed-skus",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\azure__subscribed-skus.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/billing",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\billing.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/conditional-access",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\conditional-access.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/conditional-access-blocked-signins",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\conditional-access-blocked-signins.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/copilot-interactions",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\copilot-interactions.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/dashboard",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\dashboard.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/device-management",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\device-management.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/device-management/actions",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\device-management__actions.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/device-management/compliance-status",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\device-management__compliance-status.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/device-management/configuration-status",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\device-management__configuration-status.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/device-management/details",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\device-management__details.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/device-management/devices",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\device-management__devices.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/device-management/encryption-report",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\device-management__encryption-report.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/device-management/enrollment-report",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\device-management__enrollment-report.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/device-management/intune-audit-logs",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\device-management__intune-audit-logs.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/device-management/policy-assignments",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\device-management__policy-assignments.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/device-management/remote-actions-log",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\device-management__remote-actions-log.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/device-management/reports",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\device-management__reports.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/device-management/windows-update-status",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\device-management__windows-update-status.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/devices",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\devices.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/enterprise-applications",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\enterprise-applications.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/fabric",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\fabric.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/fabric/warehouses",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\fabric__warehouses.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/fabric/workspaces/create",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\fabric__workspaces__create.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/graph-explorer",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\graph-explorer.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/groups",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\groups.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/intune/app-protection",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\intune__app-protection.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/intune/autopilot-profiles",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\intune__autopilot-profiles.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/intune/compliance-policies",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\intune__compliance-policies.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/intune/device-configurations",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\intune__device-configurations.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/intune/settings-catalog",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\intune__settings-catalog.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/known-issues",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\known-issues.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/learn-catalog",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\learn-catalog.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/licensing",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\licensing.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/log-analytics",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\log-analytics.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/mfa-signin-failure",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\mfa-signin-failure.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/mfa-signin-success",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\mfa-signin-success.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/nvd",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\nvd.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/power-platform",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\power-platform.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/power-platform/app-management",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\power-platform__app-management.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/power-platform/apps",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\power-platform__apps.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/power-platform/available-apps",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\power-platform__available-apps.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/power-platform/billing-policies",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\power-platform__billing-policies.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/power-platform/capacity",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\power-platform__capacity.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/power-platform/dataverse-analytics",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\power-platform__dataverse-analytics.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/power-platform/dlp-policies",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\power-platform__dlp-policies.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/power-platform/environment-features",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\power-platform__environment-features.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/power-platform/environment-settings",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\power-platform__environment-settings.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/power-platform/environments",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\power-platform__environments.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/power-platform/flows",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\power-platform__flows.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/power-platform/inventory-reports",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\power-platform__inventory-reports.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/power-platform/learn-catalog",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\power-platform__learn-catalog.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/power-platform/licensing/billing-policies",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\power-platform__licensing__billing-policies.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/power-platform/licensing/tenant-capacity",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\power-platform__licensing__tenant-capacity.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/power-platform/operations",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\power-platform__operations.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/power-platform/recommendations",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\power-platform__recommendations.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/power-platform/tenant-capacity",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\power-platform__tenant-capacity.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/power-platform/tenant-settings",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\power-platform__tenant-settings.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/provisioning-logs",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\provisioning-logs.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/reports/m365-app-user-counts",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\reports__m365-app-user-counts.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/reports/office365-active-user-counts",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\reports__office365-active-user-counts.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/reports/sharepoint-site-usage",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\reports__sharepoint-site-usage.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/risky-users",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\risky-users.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/scroll-test",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\scroll-test.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/secure-score",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\secure-score.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/secure-score/defender",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\secure-score__defender.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/security-alerts",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\security-alerts.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/security-assessments",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\security-assessments.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/service-announcements",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\service-announcements.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/service-health",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\service-health.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/service-principal-signins",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\service-principal-signins.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/service-principals",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\service-principals.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/sharepoint-settings",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\sharepoint-settings.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/sharepoint-sites",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\sharepoint-sites.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/teams/list-teams",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\teams__list-teams.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/teams/user-activity",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\teams__user-activity.png",
+    "brightIssues": 0,
+    "attempt": 2
+  },
+  {
+    "route": "/user-registration-details",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\user-registration-details.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/user-signins",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\user-signins.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/users",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\users.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/users/create-user",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\users__create-user.png",
+    "brightIssues": 0,
+    "attempt": 1
+  },
+  {
+    "route": "/windows-updates/catalog",
+    "file": "C:\\repos\\PortalofPortals\\docs\\screenshots\\windows-updates__catalog.png",
+    "brightIssues": 0,
+    "attempt": 1
+  }
+]
