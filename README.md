@@ -1,4 +1,4 @@
-# Pulse 360° - Comprehensive Microsoft Administration Portal
+# Portal 360° - Comprehensive Microsoft Administration Portal
 
 > **🎯 A unified portal for IT professionals and MSPs to manage Microsoft 365, Azure, Intune, and Power Platform from a single interface**
 
